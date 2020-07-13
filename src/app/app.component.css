@@ -12,11 +12,20 @@
   background-size: cover;
 }
 
+.list-group-item{
+  display: flex;
+  justify-content: space-between;
+}
+
 .card-body{
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+.img-fluid{
+  width: 44%;
 }
 
 .card-img, .card-img-bottom, .card-img-top {
