@@ -26,6 +26,7 @@
 
 .img-fluid{
   width: 44%;
+  height: 5vh !important; margin-top: 1%;
 }
 
 .card-img, .card-img-bottom, .card-img-top {
